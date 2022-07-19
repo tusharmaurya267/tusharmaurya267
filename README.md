@@ -19,11 +19,11 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=tusharmaurya267.tusharmaurya267)
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=tusharmaurya267&count_private=true&show_icons=true&hide=contribs)
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharmaurya267&count_private=true&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharmaurya267&layout=compact )
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharmaurya267&theme=dark&show_icons=true)
+
 
 
 
