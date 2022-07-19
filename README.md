@@ -1,8 +1,14 @@
-### Hi there 👋
-
-
+## Hey there 👋
+# I'm Tushar Maurya
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=tusharmaurya267.tusharmaurya267)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=tusharmaurya267&count_private=true&show_icons=true&hide=contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharmaurya267&layout=compact)
+
+
+
+
 <!--
 **tusharmaurya267/tusharmaurya267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
