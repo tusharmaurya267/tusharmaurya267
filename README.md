@@ -1,10 +1,17 @@
 ## Hey there 👋
-# I'm Tushar Maurya
+# ✨✨I'm Tushar Maurya✨✨
+
+Reach me on:
+<a href="mailto:tusharmaurya002@gmail.com">![tusharmaurya002@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+<a href="https://www.linkedin.com/in/tushar-maurya-765358192/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=tusharmaurya267.tusharmaurya267)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=tusharmaurya267&count_private=true&show_icons=true&hide=contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharmaurya267)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharmaurya267&layout=compact )
+
 
 
 
