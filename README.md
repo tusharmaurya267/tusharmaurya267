@@ -1,10 +1,18 @@
+
 ## Hey there 👋
 # ✨✨I'm Tushar Maurya✨✨
 
-Reach me on:
+#### About me:-
+<div>Student at Vellore Institute of Technology, Chennai<div>
+<div>A computer science student<div>
+
+#### Reach me on:
 <a href="mailto:tusharmaurya002@gmail.com">![tusharmaurya002@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <a href="https://www.linkedin.com/in/tushar-maurya-765358192/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  
+  
+## My Stats:
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=tusharmaurya267.tusharmaurya267)
 
