@@ -25,6 +25,8 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=tusharmaurya267.tusharmaurya267)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tusharmaurya267&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharmaurya267&count_private=true&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharmaurya267&layout=compact )
